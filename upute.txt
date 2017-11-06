@@ -14,5 +14,8 @@
 
 Ovdje če biti postavljena razna uputstva za Inkscape
 Prvo će biti pristupni PDF format i SVG prezentacija
+
+skinite datoteke na computer  (download)
+
 SVG prezentaciju možete pogledati pomoću browsera Firefox ili Chrome
 -koristite strijelice (lijevo-desno) za navigaciju-
