@@ -1,0 +1,18 @@
+# Dobro dosli na moju stranicu na github-u
+# https://github.com/sileGit
+#
+# ako netko ima malo vremena može da se pridruži u izradi uputstava
+# za to možete da me kontaktirate preko e-mail adresse
+
+  mf.sile@gmail.com
+
+# nadam se da će vam se svidjeti, a ako ne i kritike su dobrodošle.
+# Nitko se nije sveznajuci rodio a ja isto tako tek sam na početku .-)
+# a i biti ću zahvalan za ideje sta bi se sve moglo napraviti,
+# naravno u okviru raspoloživog vermena koje imam.
+# Pozdrav svima koliko vas ima i puno uspjeha u radu. 
+
+Ovdje če biti postavljena razna uputstva za Inkscape
+Prvo će biti pristupni PDF format i SVG prezentacija
+SVG prezentaciju možete pogledati pomoću browsera Firefox ili Chrome
+-koristite strijelice (lijevo-desno) za navigaciju-
