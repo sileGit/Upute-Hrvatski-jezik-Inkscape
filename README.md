@@ -1,4 +1,4 @@
-## Upute na hrvatskom jeziku
+## Upute na Hrvatskom jeziku
 
 # Ovdje će biti objavljivana uputstva za programe Inkscape,
 # FreeCAD, Fritzing
