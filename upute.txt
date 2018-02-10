@@ -1,21 +1,25 @@
 # Dobro dosli na moju stranicu na github-u
-# https://github.com/sileGit
-#
+## https://github.com/sileGit
 # ako netko ima malo vremena može da se pridruži u izradi uputstava
 # za to možete da me kontaktirate preko e-mail adresse
-
   mf.sile@gmail.com
 
 # nadam se da će vam se svidjeti, a ako ne i kritike su dobrodošle.
-# Nitko se nije sveznajuci rodio a ja isto tako tek sam na početku .-)
-# a i biti ću zahvalan za ideje sta bi se sve moglo napraviti,
-# naravno u okviru raspoloživog vermena koje imam.
-# Pozdrav svima koliko vas ima i puno uspjeha u radu. 
+# pošto sam na početku .-)
+# a i biti ću zahvalan za ideje sta bi se sve moglo napraviti.
 
-Ovdje če biti postavljena razna uputstva za Inkscape
-Prvo će biti pristupni PDF format i SVG prezentacija
+Ovdje če biti postavljena razna uputstva za **Inkscape** program
 
-skinite datoteke na computer  (download)
+skinite datoteke na computer  **download**
+  [UPUTSTVA](uputstva)
+  SVG prezentaciju možete pogledati pomoću browsera Firefox ili Chrome
+- koristite strijelice **lijevo-desno** za navigaciju
 
-SVG prezentaciju možete pogledati pomoću browsera Firefox ili Chrome
--koristite strijelice (lijevo-desno) za navigaciju-
+  [PRIJEVODI](inkscape.mo)
+- Skoro je završen prijevod programa Inkscape (pogledajte inscape.mo)
+- Počeo sam prevoditi **FreeCAD** program sa drugima, više na ovoj lokaciji 
+  [Prevodi FreeCAD](https://crowdin.com/project/freecad/hr#)  gdje se možete prijaviti i 
+  direktno online prevoditi **FreeCAD** imate i pomoć tražilice.
+- Poslao sam zahtjev za uvrštavanje Hrvatskog jezika u program **fritzing**
+  [Fritzing](http://fritzing.org/projects/?page=1)  koji je isto tako besplatan.
+
