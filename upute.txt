@@ -1,0 +1,20 @@
+Dobro dosli na moju stranicu na GitHub-u
+
+# https://github.com/sileGit
+
+Ako netko ima malo vremena može da se pridruži u izradi uputstava
+za to možete da me kontaktirate preko e-mail adresse
+
+ mf.sile@gmail.com
+
+ili jednostavno zatražite "Pull Requests" na ovoj stranici za uputstvo 
+koje želite da se ovdje objavi ili napravite svoju verziju "Fork"
+
+# nadam se da će vam se svidjeti, a ako ne i kritike su dobrodošle.
+
+skinite datoteke na computer PDF ili SVG (download)
+
+SVG prezentaciju možete pogledati pomoću browsera Firefox ili Chrome
+-koristite strijelice (lijevo-desno) za navigaciju-
+
+
