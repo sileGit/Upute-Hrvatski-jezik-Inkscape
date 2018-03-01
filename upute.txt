@@ -11,7 +11,7 @@ ili jednostavno zatražite "Pull Requests" na ovoj stranici za uputstvo
 koje želite da se ovdje objavi ili napravite svoju verziju "Fork"
 a možete i postviti pitanja na __"Issuse"__ razmijeni mišljenja i prijedloga
 
-# nadam se da će vam se svidjeti, a ako ne i kritike su dobrodošle.
+# nadam se da će vam se svidjeti, a ako ne i kritike su dobrodošle
 
 Skinite datoteke na computer __"Clone or download"__ ==> __Download ZIP__
 zatim odzipajte sa npr. 7zip programom, u mapi se nalaze sve datoteke
