@@ -17,6 +17,8 @@ Skinite datoteke na computer __"Clone or download"__ ==> __Download ZIP__
 zatim odzipajte sa npr. 7zip programom, u mapi se nalaze sve datoteke
 sa ove gitHub stranice
 
+NAPOMENA Nemojte skidati datoteke pojedinačno jer tako neke NEĆETE MOĆI OTVORITI
+
 _SVG Prezentaciju_ možete pogledati pomoću preglednika Firefox ili Chrome
 koristite strijelice (lijevo-desno) za navigaciju
 
