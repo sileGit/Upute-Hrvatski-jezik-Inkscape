@@ -3,18 +3,20 @@ Dobro dosli na moju stranicu na GitHub-u
 # https://github.com/sileGit
 
 Ako netko ima malo vremena može da se pridruži u izradi uputstava
-za to možete da me kontaktirate preko e-mail adresse
+a za to možete da me kontaktirate preko e-mail adresse
 
  mf.sile@gmail.com
 
 ili jednostavno zatražite "Pull Requests" na ovoj stranici za uputstvo 
 koje želite da se ovdje objavi ili napravite svoju verziju "Fork"
+a možete i postviti pitanja na __"Issuse"__ razmijeni mišljenja i prijedloga
 
 # nadam se da će vam se svidjeti, a ako ne i kritike su dobrodošle.
 
-skinite datoteke na computer PDF ili SVG (download)
+Skinite datoteke na computer __"Clone or download"__ ==> __Download ZIP__
+zatim odzipajte sa npr. 7zip programom, u mapi se nalaze sve datoteke
+sa ove gitHub stranice
 
-SVG prezentaciju možete pogledati pomoću browsera Firefox ili Chrome
--koristite strijelice (lijevo-desno) za navigaciju-
-
+_SVG Prezentaciju_ možete pogledati pomoću preglednika Firefox ili Chrome
+koristite strijelice (lijevo-desno) za navigaciju
 
