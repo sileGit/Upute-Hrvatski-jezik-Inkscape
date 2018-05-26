@@ -4,7 +4,7 @@
 
 Na ovoj stranici su postavljena razna uputstva za program **Inkscape** i druge programe
 
-Ako želite sudjelovati javite se i dobit če te detaljnije upute kako sudjelovati,
+Ako želite sudjelovati javite se i dobit če te detaljnije upute kako sudjelovati,  
 predznanje nije potrebno  a svaka pomoć je dobro došla :-)
 
 Cilj je:
@@ -16,7 +16,7 @@ Za sve dalje informacije možete mi se obratiti na e-mail adresu
 koja se nalazi u datoteci upute.txt
 
 - Skoro je završen prijevod programa **Inkscape** "pogledajte inscape.mo"
-- Počeo sam prevoditi **FreeCAD** [FreeCAD Dokumentacija]https://freecadweb.org/?lang=hr, prevodi se na
+- Počeo sam prevoditi **FreeCAD** [FreeCAD Dokumentacija](https://freecadweb.org/?lang=hr), prevodi se na
   ovoj lokaciji [Prevodi FreeCAD](https://crowdin.com/project/freecad/hr#)  gdje se možete prijaviti i 
   direktno online prevoditi **FreeCAD** a imate i pomoć tražilice kod prijevoda.
 - Tražim suradnike za prijevod programa **fritzing**  [Fritzing](http://fritzing.org/support-us/)
