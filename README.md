@@ -8,6 +8,7 @@ Ako želite sudjelovati javite se i dobit če te detaljnije upute kako sudjelova
 predznanje nije potrebno  a svaka pomoć je dobro došla :-)
 
 Cilj je:
+
 -prevesti programe na Hrvatski jezik da bi bili dostupni
  mlađoj populaciji koja još nije vična Engleskom jeziku.
 -napraviti par uputstava za korištenje tih programa.
