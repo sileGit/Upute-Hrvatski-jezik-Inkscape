@@ -19,5 +19,5 @@ koja se nalazi u datoteci upute.txt
 - Počeo sam prevoditi **FreeCAD** [FreeCAD Dokumentacija](https://freecadweb.org/?lang=hr), prevodi se na
   ovoj lokaciji [Prevodi FreeCAD](https://crowdin.com/project/freecad/hr#)  gdje se možete prijaviti i 
   direktno online prevoditi **FreeCAD** a imate i pomoć tražilice kod prijevoda.
-- Tražim suradnike za prijevod programa **fritzing**  [Fritzing](http://fritzing.org/support-us/)
+- Tražim suradnike za prijevod programa **Fritzing**  [Fritzing](http://fritzing.org/support-us/)
   koji je isto tako besplatan.
