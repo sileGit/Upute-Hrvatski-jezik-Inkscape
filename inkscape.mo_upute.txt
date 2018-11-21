@@ -1,0 +1,5 @@
+Datoteka inkscape.mo se nalazi u //inkscape/share/locale/hr/LC_MESSAGES/inkscape.mo
+ * umetnite moju datoteku preko postojeće datoteke da bi ste dobili program na Hrvatskom jeziku
+ * provjerite da li je u postavkama jezika postavljen Hrvatski jezik
+ * postavke će te pronaći ako kad pokrenete inkscape kliknete na ikonu sa slikom alata koja se nalazi
+   na traci alata gore skroz desno
