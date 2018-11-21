@@ -1,0 +1,7 @@
+Datoteku inkscape.mo možete naći u //share/locale/hr/LC_MESSAGES/inkscape.mo
+
+* umetnite moju datoteku preko postjeće da bi dobili prijevod programa na hrvatskom jeziku
+* provjerite da li je u potavkama kao jezik programa postavljen hrvatski
+* postavke možete naći tako da kad pokrenete program kliknete na 
+  ikonu sa slikom alata u traci alata skroz desno i tamo potražite postavke za jezika
+ 
